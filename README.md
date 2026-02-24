@@ -16,6 +16,7 @@ Identify high-performing policy types
 Monitor active vs inactive policies
 Understand demographic trends (Age & Gender).
 https://github.com/jyotijyas23-blip/Power-BI-Dashboard/blob/main/Power%20Bi%20Dashbord%202.png
+https://github.com/jyotijyas23-blip/Power-BI-Dashboard/blob/main/Power%20Bi%20dashboard.png
 
 
 
